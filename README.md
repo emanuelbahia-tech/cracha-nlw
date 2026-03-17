@@ -1,3 +1,3 @@
 # cracha-nlw
 Cracha virtual criado na trilha origin na NLW Heat
-https://manuel-chan.github.io/cracha-nlw/
+https://emanuelbahia-tech.github.io/cracha-nlw/
